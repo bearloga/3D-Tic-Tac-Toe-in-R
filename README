@@ -1,0 +1,21 @@
+Three-Dimensional Tic-Tac-Toe in R!
+
+(to be played with another person on the same computer)
+
+Code by	Mikhail Y. Popov
+		email: michaelupopov@gmail.com
+		web: http://www.mpopov.com
+
+GAME RULES:
+
+To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids.
+
+P.S. Same square across all four planes counts as a victory as well.
+
+SET-UP INSTRUCTIONS:
+
+1) Copy and paste the entire script into R
+2) Feel free to customize the symbols and their colors.
+3a) Enter play() to begin playing
+3b) Enter play(#) to play a (# x # x #) match
+3c) Enter play(xname="Mikhail",oname="Sam") to preset names
